@@ -1,0 +1,56 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+html,body{
+    width: 100%;
+    height: 100%;
+}
+
+#back{
+    width: 100%;
+    height: 100%;
+    background-image: url('back.jpg');
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+#one{
+    width: 100%;
+    height: 100%;
+    background-image: url('form1.png');
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+#two{
+    width: 100%;
+    height: 100%;
+    background-image: url('page.png');
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+#three{
+    width: 100%;
+    height: 100%;
+    background-image: url('sort.png');
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+#tag{
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    background-image: url('rocket.png');
+    background-size: cover;
+    background-position: center;
+    background-attachment: scroll;
+    margin-left: 90%;
+    margin-top: 40%;
+}
